@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danthreepo
 - 👀 I’m interested in game and app development and Data Analytics.
-- 🌱 I’m currently learning GitHub, Gadot and Python
+- 🌱 I’m currently learning GitHub, Godot and Python
 - 💞️ I’m looking to collaborate on anything I can contribute to.
 - 📫 How to reach me @danthreepo
 - 😄 Pronouns: He/Him
